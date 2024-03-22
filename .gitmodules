@@ -1,0 +1,12 @@
+[submodule "pwnie"]
+	path = pwnie
+	url = git@github.com:glorisonlai/pwnie.git
+[submodule "seismatoad"]
+	path = seismatoad
+	url = git@github.com:glorisonlai/seismatoad.git
+[submodule "the-playground"]
+	path = the-playground
+	url = git@github.com:glorisonlai/the-playground.git
+[submodule "atlas-visualisation"]
+	path = atlas-visualisation
+	url = git@github.com:glorisonlai/atlas-visualisation.git
