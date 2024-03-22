@@ -1,2 +1,3 @@
-# shiny
-Repo for public projects
+# ✨ Shiny ✨
+
+This is a repository for my public projects for showcasing
